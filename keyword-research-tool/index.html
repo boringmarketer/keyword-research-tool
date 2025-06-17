@@ -114,8 +114,9 @@
                     <div id="step-1" class="mb-1">⏳ Crawling website content...</div>
                     <div id="step-2" class="mb-1 opacity-50">🧠 Generating seed keywords...</div>
                     <div id="step-3" class="mb-1 opacity-50">📊 Getting search volumes...</div>
-                    <div id="step-4" class="mb-1 opacity-50">🔍 Analyzing competitors...</div>
-                    <div id="step-5" class="mb-1 opacity-50">📈 Creating clusters...</div>
+                    <div id="step-4" class="mb-1 opacity-50">🎯 Clustering keywords...</div>
+                    <div id="step-5" class="mb-1 opacity-50">🔍 Researching competitors...</div>
+                    <div id="step-6" class="mb-1 opacity-50">📈 Generating report...</div>
                 </div>
             </div>
         </div>
@@ -167,12 +168,20 @@
                 </div>
             </div>
 
-            <!-- Download Button -->
+            <!-- Raw Analysis Data -->
+            <div class="bg-white rounded-xl shadow-lg p-8 mb-8">
+                <h3 class="text-2xl font-bold text-gray-600 mb-4">🔍 Raw Analysis Data</h3>
+                <div id="raw-data-content">
+                    <!-- Raw data will be inserted here -->
+                </div>
+            </div>
+
+            <!-- Analysis Complete -->
             <div class="text-center">
-                <button onclick="downloadReport()" 
-                        class="bg-gradient-to-r from-green-600 to-blue-600 text-white font-bold py-3 px-8 rounded-lg hover:from-green-700 hover:to-blue-700 transition duration-200">
-                    📥 Download Full Report (JSON)
-                </button>
+                <div class="bg-green-50 border border-green-200 rounded-lg p-6">
+                    <h3 class="text-lg font-bold text-green-800 mb-2">✅ Analysis Complete!</h3>
+                    <p class="text-green-700">All keyword data, competitor analysis, and detailed metrics are displayed above.</p>
+                </div>
             </div>
         </div>
 

@@ -210,6 +210,35 @@ function filterTechnicalKeywords(keywords) {
     });
 }
 
+// Helper to parse JSON from AI responses, with fallbacks
+function extractJsonFromAiResponse(content) {
+    // Attempt to find JSON within markdown code blocks
+    const codeBlockMatch = content.match(/```(json)?\s*([\s\S]*?)\s*```/);
+    if (codeBlockMatch && codeBlockMatch[2]) {
+        try {
+            // Try parsing the extracted content as a whole
+            return JSON.parse(codeBlockMatch[2]);
+        } catch (e) {
+            // Fallback to parsing line-by-line if main JSON is malformed
+            const lines = codeBlockMatch[2].split('\n');
+            return lines
+                .map(line => line.replace(/^[\d\-\*\.\s\[\]"'`]+/, '').replace(/["'\]\[`,]*$/g, '').trim())
+                .filter(kw => kw.length > 2);
+        }
+    }
+
+    // If no code block, try parsing the entire content
+    try {
+        return JSON.parse(content);
+    } catch (e) {
+        // Fallback to parsing the entire content line-by-line
+        const lines = content.split('\n');
+        return lines
+            .map(line => line.replace(/^[\d\-\*\.\s\[\]"'`]+/, '').replace(/["'\]\[`,]*$/g, '').trim())
+            .filter(kw => kw.length > 2);
+    }
+}
+
 // Step 2: Generate keywords
 async function generateKeywords(url, websiteData, businessType, apiKey) {
     const title = websiteData.metadata?.title || 'N/A';
@@ -282,22 +311,9 @@ Return ONLY a JSON array of keyword strings, no explanations:`;
     }
 
     const data = await response.json();
-    let content_text = data.choices[0].message.content.trim();
+    const content_text = data.choices[0].message.content.trim();
     
-    // Remove markdown code blocks if present
-    content_text = content_text.replace(/```json\s*/g, '').replace(/```\s*/g, '');
-
-    let keywords = [];
-    try {
-        keywords = JSON.parse(content_text);
-    } catch (e) {
-        // Parse from text format
-        const lines = content_text.split('\n');
-        keywords = lines
-            .map(line => line.replace(/^[\d\-\*\.\s\[\]"'`]+/, '').replace(/["'\]\[`]/g, '').trim())
-            .filter(kw => kw.length > 3 && kw.length < 100 && !kw.toLowerCase().includes('json'))
-            .slice(0, 50);
-    }
+    let keywords = extractJsonFromAiResponse(content_text);
 
     if (!Array.isArray(keywords) || keywords.length === 0) {
         throw new Error('Failed to generate keywords from website content.');
@@ -415,8 +431,12 @@ async function analyzeAndCluster(keywordMetrics, relatedKeywords, serpData, busi
 
     // Add related keywords
     const relatedResults = relatedKeywords.tasks?.[0]?.result || [];
+
+    const allRelatedKeywords = (relatedResults || []).map(r => r.keyword).filter(Boolean);
+    const goodKeywords = new Set(filterTechnicalKeywords(allRelatedKeywords));
+
     relatedResults
-        .filter(item => item.search_volume > 50)
+        .filter(item => item.search_volume > 50 && goodKeywords.has(item.keyword))
         .slice(0, 500)
         .forEach(item => {
             if (!keywordDB.has(item.keyword)) {
@@ -516,35 +536,31 @@ Return ONLY the domain names (like example.com) as a JSON array, no explanations
 
             if (response.ok) {
                 const data = await response.json();
-                let content = data.choices[0].message.content.trim();
+                const content = data.choices[0].message.content.trim();
                 
-                // Clean up the response
-                content = content.replace(/```json\s*/g, '').replace(/```\s*/g, '');
-                
-                try {
-                    const competitors = JSON.parse(content);
-                    if (Array.isArray(competitors)) {
-                        // Clean and filter the competitors
-                        const cleanCompetitors = competitors
-                            .map(domain => {
-                                // Clean domain format
-                                return domain.replace(/^https?:\/\//, '').replace(/^www\./, '').split('/')[0].toLowerCase();
-                            })
-                            .filter(domain => {
-                                // Filter out invalid domains
-                                return domain && 
-                                       domain.includes('.') && 
-                                       !domain.includes(' ') &&
-                                       domain.length > 3 &&
-                                       domain.length < 50;
-                            })
-                            .slice(0, 8);
-                        
-                        cluster.ai_competitors = cleanCompetitors;
-                        console.log(`Found ${cleanCompetitors.length} AI competitors for ${cluster.main_keyword}:`, cleanCompetitors);
-                    }
-                } catch (parseError) {
-                    console.log('Failed to parse AI competitor response for', cluster.main_keyword, parseError);
+                const competitors = extractJsonFromAiResponse(content);
+
+                if (Array.isArray(competitors) && competitors.length > 0) {
+                    // Clean and filter the competitors
+                    const cleanCompetitors = competitors
+                        .map(domain => {
+                            // Clean domain format
+                            return domain.replace(/^https?:\/\//, '').replace(/^www\./, '').split('/')[0].toLowerCase();
+                        })
+                        .filter(domain => {
+                            // Filter out invalid domains
+                            return domain && 
+                                   domain.includes('.') && 
+                                   !domain.includes(' ') &&
+                                   domain.length > 3 &&
+                                   domain.length < 50;
+                        })
+                        .slice(0, 8);
+                    
+                    cluster.ai_competitors = cleanCompetitors;
+                    console.log(`Found ${cleanCompetitors.length} AI competitors for ${cluster.main_keyword}:`, cleanCompetitors);
+                } else {
+                    console.log('Failed to parse AI competitor response for', cluster.main_keyword);
                     cluster.ai_competitors = [];
                 }
             }
