@@ -1,0 +1,1606 @@
+{
+  "analysis_summary": {
+    "source_website": "https://www.firstlighthomecare.com/home-healthcare-boston-northwest/",
+    "business_type": "Service Business",
+    "analysis_date": "2025-06-17T22:00:44.058Z",
+    "total_keywords_analyzed": 89,
+    "clusters_identified": 10,
+    "total_monthly_search_volume": 435080,
+    "estimated_monthly_traffic_potential": 130524,
+    "avg_cpc": 6.488337890624999
+  },
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "main_keyword": "```json",
+      "theme": "🎯 General",
+      "keywords": [
+        {
+          "keyword": "```json",
+          "search_volume": 49500,
+          "cpc": 3.33,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        }
+      ],
+      "total_search_volume": 49500,
+      "avg_cpc": 3.33,
+      "avg_difficulty": 0,
+      "total_commercial_score": null,
+      "competitor_domains": []
+    },
+    {
+      "cluster_id": 2,
+      "main_keyword": "json",
+      "theme": "🎯 General",
+      "keywords": [
+        {
+          "keyword": "json",
+          "search_volume": 49500,
+          "cpc": 3.33,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "json to google sheets",
+          "search_volume": 320,
+          "cpc": 4.01,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "json to csv",
+          "search_volume": 9900,
+          "cpc": 8,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "json to csv converter",
+          "search_volume": 2400,
+          "cpc": 4.76,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "json file",
+          "search_volume": 18100,
+          "cpc": 2.74,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "import json to google sheets",
+          "search_volume": 140,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "json api",
+          "search_volume": 1600,
+          "cpc": 20.86,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "json database",
+          "search_volume": 1600,
+          "cpc": 13.12,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "json decoder",
+          "search_volume": 1900,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "json reader",
+          "search_volume": 2400,
+          "cpc": 0.15,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        }
+      ],
+      "total_search_volume": 87860,
+      "avg_cpc": 3.1443359375,
+      "avg_difficulty": 0,
+      "total_commercial_score": null,
+      "competitor_domains": []
+    },
+    {
+      "cluster_id": 3,
+      "main_keyword": "cambridge manor care home",
+      "theme": "🎯 General",
+      "keywords": [
+        {
+          "keyword": "cambridge manor care home",
+          "search_volume": 390,
+          "cpc": 7.56,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "cambridge homecare",
+          "search_volume": 390,
+          "cpc": 9.18,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "cambridge manor care home cambridge",
+          "search_volume": 390,
+          "cpc": 7.56,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "home health care winchester va",
+          "search_volume": 110,
+          "cpc": 7.41,
+          "competition": "MEDIUM",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "care home cherry hinton",
+          "search_volume": 110,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "cherry hinton care home cambridge",
+          "search_volume": 110,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "home health care in winchester va",
+          "search_volume": 110,
+          "cpc": 7.41,
+          "competition": "MEDIUM",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "home care winchester va",
+          "search_volume": 110,
+          "cpc": 7.41,
+          "competition": "MEDIUM",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        }
+      ],
+      "total_search_volume": 1720,
+      "avg_cpc": 6.03796875,
+      "avg_difficulty": 0,
+      "total_commercial_score": null,
+      "competitor_domains": []
+    },
+    {
+      "cluster_id": 4,
+      "main_keyword": "import json google sheets",
+      "theme": "🎯 General",
+      "keywords": [
+        {
+          "keyword": "import json google sheets",
+          "search_volume": 110,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "json formatter",
+          "search_volume": 135000,
+          "cpc": 0.6,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "json converter",
+          "search_volume": 2400,
+          "cpc": 10.63,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "google sheet import json",
+          "search_volume": 210,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "google sheets json",
+          "search_volume": 320,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "json example",
+          "search_volume": 5400,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "json loads",
+          "search_volume": 4400,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "python json",
+          "search_volume": 5400,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "google sheets to json",
+          "search_volume": 320,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "application json",
+          "search_volume": 880,
+          "cpc": 6.03,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        }
+      ],
+      "total_search_volume": 154440,
+      "avg_cpc": 3.0576953125,
+      "avg_difficulty": 0,
+      "total_commercial_score": null,
+      "competitor_domains": []
+    },
+    {
+      "cluster_id": 5,
+      "main_keyword": "pdf to json",
+      "theme": "🎯 General",
+      "keywords": [
+        {
+          "keyword": "pdf to json",
+          "search_volume": 590,
+          "cpc": 5.87,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "mongodb json",
+          "search_volume": 170,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "json structure",
+          "search_volume": 1900,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "firebase json",
+          "search_volume": 140,
+          "cpc": 13.74,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "redis json",
+          "search_volume": 260,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "dynamodb json",
+          "search_volume": 140,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "lottie json",
+          "search_volume": 170,
+          "cpc": 8.22,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "json parse",
+          "search_volume": 14800,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "mysql json",
+          "search_volume": 590,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "json data",
+          "search_volume": 1600,
+          "cpc": 13.12,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        }
+      ],
+      "total_search_volume": 20360,
+      "avg_cpc": 7.192558593749999,
+      "avg_difficulty": 0,
+      "total_commercial_score": null,
+      "competitor_domains": []
+    },
+    {
+      "cluster_id": 6,
+      "main_keyword": "xml to json",
+      "theme": "🎯 General",
+      "keywords": [
+        {
+          "keyword": "xml to json",
+          "search_volume": 4400,
+          "cpc": 3.93,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "vercel json",
+          "search_volume": 390,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "sample json",
+          "search_volume": 5400,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "json programming",
+          "search_volume": 110,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "json online",
+          "search_volume": 2400,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "snowflake json",
+          "search_volume": 260,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "postgresql json",
+          "search_volume": 880,
+          "cpc": 4.35,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "json view",
+          "search_volume": 33100,
+          "cpc": 0.38,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "json diff",
+          "search_volume": 8100,
+          "cpc": 14.28,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "openapi json",
+          "search_volume": 260,
+          "cpc": 70.22,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        }
+      ],
+      "total_search_volume": 55300,
+      "avg_cpc": 39.00705078125,
+      "avg_difficulty": 0,
+      "total_commercial_score": null,
+      "competitor_domains": []
+    },
+    {
+      "cluster_id": 7,
+      "main_keyword": "json file converter",
+      "theme": "🎯 General",
+      "keywords": [
+        {
+          "keyword": "json file converter",
+          "search_volume": 320,
+          "cpc": 8.63,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "xml to json converter",
+          "search_volume": 4400,
+          "cpc": 3.93,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "excel to json converter",
+          "search_volume": 390,
+          "cpc": 7.02,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "csv to json converter",
+          "search_volume": 880,
+          "cpc": 20.11,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "json to xml converter",
+          "search_volume": 880,
+          "cpc": 7.48,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "json file example",
+          "search_volume": 2400,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "json file format",
+          "search_volume": 2400,
+          "cpc": 2.11,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "json file reader",
+          "search_volume": 1000,
+          "cpc": 0.43,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "sample json file",
+          "search_volume": 2400,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "pdf to json converter",
+          "search_volume": 170,
+          "cpc": 5.13,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        }
+      ],
+      "total_search_volume": 15240,
+      "avg_cpc": 3.0765624999999996,
+      "avg_difficulty": 0,
+      "total_commercial_score": null,
+      "competitor_domains": []
+    },
+    {
+      "cluster_id": 8,
+      "main_keyword": "json api example",
+      "theme": "🎯 General",
+      "keywords": [
+        {
+          "keyword": "json api example",
+          "search_volume": 260,
+          "cpc": 4.07,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "json format example",
+          "search_volume": 590,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "json data example",
+          "search_volume": 480,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "swagger json",
+          "search_volume": 320,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "json structure example",
+          "search_volume": 170,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "project json",
+          "search_volume": 140,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "valid json",
+          "search_volume": 1300,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "dummy json",
+          "search_volume": 320,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "json javascript",
+          "search_volume": 590,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "clickhouse json",
+          "search_volume": 140,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        }
+      ],
+      "total_search_volume": 4310,
+      "avg_cpc": 0.00794921875,
+      "avg_difficulty": 0,
+      "total_commercial_score": null,
+      "competitor_domains": []
+    },
+    {
+      "cluster_id": 9,
+      "main_keyword": "csv to json",
+      "theme": "🎯 General",
+      "keywords": [
+        {
+          "keyword": "csv to json",
+          "search_volume": 5400,
+          "cpc": 3.97,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "view json",
+          "search_volume": 33100,
+          "cpc": 0.38,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "json coding",
+          "search_volume": 720,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "angular json",
+          "search_volume": 210,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "appsettings json",
+          "search_volume": 320,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "arduino json",
+          "search_volume": 260,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "assetlinks json",
+          "search_volume": 110,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "bash json",
+          "search_volume": 140,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "beauty json",
+          "search_volume": 480,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "binary json",
+          "search_volume": 1600,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        }
+      ],
+      "total_search_volume": 42340,
+      "avg_cpc": 0.008496093750000001,
+      "avg_difficulty": 0,
+      "total_commercial_score": null,
+      "competitor_domains": []
+    },
+    {
+      "cluster_id": 10,
+      "main_keyword": "json to sql",
+      "theme": "🎯 General",
+      "keywords": [
+        {
+          "keyword": "json to sql",
+          "search_volume": 260,
+          "cpc": 10.63,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "c json",
+          "search_volume": 880,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "c# json",
+          "search_volume": 320,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "c++ json",
+          "search_volume": 590,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "cmakepresets json",
+          "search_volume": 140,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "code json",
+          "search_volume": 720,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "compile_commands json",
+          "search_volume": 320,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "composer json",
+          "search_volume": 140,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "convertfrom json",
+          "search_volume": 320,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "convertto json",
+          "search_volume": 320,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        }
+      ],
+      "total_search_volume": 4010,
+      "avg_cpc": 0.02076171875,
+      "avg_difficulty": 0,
+      "total_commercial_score": null,
+      "competitor_domains": []
+    }
+  ],
+  "quick_wins": [
+    {
+      "cluster_id": 1,
+      "main_keyword": "```json",
+      "theme": "🎯 General",
+      "keywords": [
+        {
+          "keyword": "```json",
+          "search_volume": 49500,
+          "cpc": 3.33,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        }
+      ],
+      "total_search_volume": 49500,
+      "avg_cpc": 3.33,
+      "avg_difficulty": 0,
+      "total_commercial_score": null,
+      "competitor_domains": []
+    },
+    {
+      "cluster_id": 2,
+      "main_keyword": "json",
+      "theme": "🎯 General",
+      "keywords": [
+        {
+          "keyword": "json",
+          "search_volume": 49500,
+          "cpc": 3.33,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "json to google sheets",
+          "search_volume": 320,
+          "cpc": 4.01,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "json to csv",
+          "search_volume": 9900,
+          "cpc": 8,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "json to csv converter",
+          "search_volume": 2400,
+          "cpc": 4.76,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "json file",
+          "search_volume": 18100,
+          "cpc": 2.74,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "import json to google sheets",
+          "search_volume": 140,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "json api",
+          "search_volume": 1600,
+          "cpc": 20.86,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "json database",
+          "search_volume": 1600,
+          "cpc": 13.12,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "json decoder",
+          "search_volume": 1900,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "json reader",
+          "search_volume": 2400,
+          "cpc": 0.15,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        }
+      ],
+      "total_search_volume": 87860,
+      "avg_cpc": 3.1443359375,
+      "avg_difficulty": 0,
+      "total_commercial_score": null,
+      "competitor_domains": []
+    },
+    {
+      "cluster_id": 3,
+      "main_keyword": "cambridge manor care home",
+      "theme": "🎯 General",
+      "keywords": [
+        {
+          "keyword": "cambridge manor care home",
+          "search_volume": 390,
+          "cpc": 7.56,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "cambridge homecare",
+          "search_volume": 390,
+          "cpc": 9.18,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "cambridge manor care home cambridge",
+          "search_volume": 390,
+          "cpc": 7.56,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "home health care winchester va",
+          "search_volume": 110,
+          "cpc": 7.41,
+          "competition": "MEDIUM",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "care home cherry hinton",
+          "search_volume": 110,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "cherry hinton care home cambridge",
+          "search_volume": 110,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "home health care in winchester va",
+          "search_volume": 110,
+          "cpc": 7.41,
+          "competition": "MEDIUM",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "home care winchester va",
+          "search_volume": 110,
+          "cpc": 7.41,
+          "competition": "MEDIUM",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        }
+      ],
+      "total_search_volume": 1720,
+      "avg_cpc": 6.03796875,
+      "avg_difficulty": 0,
+      "total_commercial_score": null,
+      "competitor_domains": []
+    },
+    {
+      "cluster_id": 4,
+      "main_keyword": "import json google sheets",
+      "theme": "🎯 General",
+      "keywords": [
+        {
+          "keyword": "import json google sheets",
+          "search_volume": 110,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "json formatter",
+          "search_volume": 135000,
+          "cpc": 0.6,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "json converter",
+          "search_volume": 2400,
+          "cpc": 10.63,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "google sheet import json",
+          "search_volume": 210,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "google sheets json",
+          "search_volume": 320,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "json example",
+          "search_volume": 5400,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "json loads",
+          "search_volume": 4400,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "python json",
+          "search_volume": 5400,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "google sheets to json",
+          "search_volume": 320,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "application json",
+          "search_volume": 880,
+          "cpc": 6.03,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        }
+      ],
+      "total_search_volume": 154440,
+      "avg_cpc": 3.0576953125,
+      "avg_difficulty": 0,
+      "total_commercial_score": null,
+      "competitor_domains": []
+    },
+    {
+      "cluster_id": 5,
+      "main_keyword": "pdf to json",
+      "theme": "🎯 General",
+      "keywords": [
+        {
+          "keyword": "pdf to json",
+          "search_volume": 590,
+          "cpc": 5.87,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "mongodb json",
+          "search_volume": 170,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "json structure",
+          "search_volume": 1900,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "firebase json",
+          "search_volume": 140,
+          "cpc": 13.74,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "redis json",
+          "search_volume": 260,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "dynamodb json",
+          "search_volume": 140,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "lottie json",
+          "search_volume": 170,
+          "cpc": 8.22,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "json parse",
+          "search_volume": 14800,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "mysql json",
+          "search_volume": 590,
+          "cpc": 0,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        },
+        {
+          "keyword": "json data",
+          "search_volume": 1600,
+          "cpc": 13.12,
+          "competition": "LOW",
+          "competition_level": "unknown",
+          "keyword_difficulty": 0,
+          "serp_urls": [],
+          "commercial_score": null,
+          "is_seed": false
+        }
+      ],
+      "total_search_volume": 20360,
+      "avg_cpc": 7.192558593749999,
+      "avg_difficulty": 0,
+      "total_commercial_score": null,
+      "competitor_domains": []
+    }
+  ],
+  "high_value": [],
+  "competitors": []
+}
