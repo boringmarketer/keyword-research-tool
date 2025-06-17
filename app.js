@@ -415,8 +415,12 @@ async function analyzeAndCluster(keywordMetrics, relatedKeywords, serpData, busi
 
     // Add related keywords
     const relatedResults = relatedKeywords.tasks?.[0]?.result || [];
+
+    const allRelatedKeywords = (relatedResults || []).map(r => r.keyword).filter(Boolean);
+    const goodKeywords = new Set(filterTechnicalKeywords(allRelatedKeywords));
+
     relatedResults
-        .filter(item => item.search_volume > 50)
+        .filter(item => item.search_volume > 50 && goodKeywords.has(item.keyword))
         .slice(0, 500)
         .forEach(item => {
             if (!keywordDB.has(item.keyword)) {
